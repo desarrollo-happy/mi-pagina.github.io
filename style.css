@@ -235,6 +235,11 @@ html{
     margin-bottom: 10px;
 }
 
+.contacto .contacto-redes-conteiner .contacto_redSocial-box a{
+    color: #fff;
+    text-decoration: none;
+}
+
 /* FOOTER */
 .footer{
     width: 100vw;
